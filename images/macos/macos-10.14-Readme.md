@@ -230,7 +230,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | watchOS 6.0 | 17R5532d | 11.0       |
 
 #### How to install additional simulators?
-!!! - **By default, we do not install all simulators for all Xcode versions due to compatibility issues that we have seen. To install a specific simulator for all Xcode versions, use `xcversion` tool:**
+!!! - By default, we do not install all simulators for all Xcode versions due to compatibility issues that we have seen. To install a specific simulator for all Xcode versions, use `xcversion` tool:
 ```
 xcversion simulators --install='iOS 8.4'
 ```
