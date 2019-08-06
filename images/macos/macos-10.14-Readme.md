@@ -169,21 +169,21 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 - iPhone 8 Plus
 - iPhone SE
 - iPhone X
-- iPhone XR [Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]
-- iPhone XS [Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]
-- iPhone XS Max [Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]
+- iPhone XR **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
+- iPhone XS **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
+- iPhone XS Max **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
 - iPad 2
 - iPad Retina
 - iPad Air
 - iPad Air 2
-- iPad Air (3rd generation) [Xcode: 10.2, 10.2.1, 10.3, 11]
+- iPad Air (3rd generation) **[Xcode: 10.2, 10.2.1, 10.3, 11]**
 - iPad (5th generation)
 - iPad Pro (9.7-inch)
 - iPad Pro (10.5-inch)
-- iPad Pro (11-inch) [Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]
+- iPad Pro (11-inch) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]**
 - iPad Pro (12.9-inch)
 - iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (12.9-inch) (3rd generation) [Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]
+- iPad Pro (12.9-inch) (3rd generation) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]**
 - iPad (6th generation)
 - Apple TV 1080p
 - Apple TV 4K
