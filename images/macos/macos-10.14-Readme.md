@@ -228,6 +228,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | watchOS 5.2 | 16T224 | 10.2, 10.2.1 |
 | watchOS 5.3 | 16U567 | 10.3         |
 | watchOS 6.0 | 17R5532d | 11_beta    |
+
 !!! - **By default, we do not install all simulators for all Xcode versions due to compatibility issues that we have seen.**
 
 #### How to install additional simulators?
