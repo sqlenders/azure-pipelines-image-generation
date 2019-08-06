@@ -194,8 +194,8 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 - Apple Watch Series 2 - 42mm
 - Apple Watch Series 3 - 38mm
 - Apple Watch Series 3 - 42mm
-- Apple Watch Series 4 - 40mm [Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]
-- Apple Watch Series 4 - 44mm [Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]
+- Apple Watch Series 4 - 40mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
+- Apple Watch Series 4 - 44mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
 
 #### Runtimes
 
