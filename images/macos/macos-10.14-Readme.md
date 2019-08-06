@@ -169,21 +169,21 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 - iPhone 8 Plus
 - iPhone SE
 - iPhone X
-- iPhone XR **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
-- iPhone XS **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
-- iPhone XS Max **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
+- iPhone XR **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
+- iPhone XS **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
+- iPhone XS Max **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
 - iPad 2
 - iPad Retina
 - iPad Air
 - iPad Air 2
-- iPad Air (3rd generation) **[Xcode: 10.2, 10.2.1, 10.3, 11]**
+- iPad Air (3rd generation) **[Xcode: 10.2, 10.2.1, 10.3, 11_beta]**
 - iPad (5th generation)
 - iPad Pro (9.7-inch)
 - iPad Pro (10.5-inch)
-- iPad Pro (11-inch) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]**
+- iPad Pro (11-inch) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
 - iPad Pro (12.9-inch)
 - iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (12.9-inch) (3rd generation) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11]**
+- iPad Pro (12.9-inch) (3rd generation) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
 - iPad (6th generation)
 - Apple TV 1080p
 - Apple TV 4K
@@ -194,8 +194,8 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 - Apple Watch Series 2 - 42mm
 - Apple Watch Series 3 - 38mm
 - Apple Watch Series 3 - 42mm
-- Apple Watch Series 4 - 40mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
-- Apple Watch Series 4 - 44mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11]**
+- Apple Watch Series 4 - 40mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
+- Apple Watch Series 4 - 44mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11_beta]**
 
 #### Runtimes
 
