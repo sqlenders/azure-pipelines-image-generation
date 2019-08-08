@@ -111,7 +111,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | macOS 10.13               | macosx10.13 | 9.4.1        |
 | macOS 10.14               | macosx10.14 | 10.0         |
 | macOS 10.14               | macosx10.14 | 10.1         |
-| macOS 10.14               | macosx10.14 | 10.2(.1)     |
+| macOS 10.14               | macosx10.14 | 10.2, 10.2.1 |
 | macOS 10.14               | macosx10.14 | 10.3         |
 | macOS 10.15               | macosx10.15 | 11.0         |
 | iOS 11.4                  | iphoneos11.4 | 9.4.1       |
@@ -123,7 +123,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | iOS Simulator 11.4        | iphonesimulator11.4 | 9.4.1    |
 | iOS Simulator 12.0        | iphonesimulator12.0 | 10.0     |
 | iOS Simulator 12.1        | iphonesimulator12.1 | 10.1     |
-| iOS Simulator 12.2        | iphonesimulator12.2 | 10.2(.1) |
+| iOS Simulator 12.2        | iphonesimulator12.2 | 10.2, 10.2.1 |
 | iOS Simulator 12.4        | iphonesimulator12.4 | 10.3     |
 | iOS Simulator 13.0        | iphonesimulator13.0 | 11.0     |
 | tvOS 11.4                 | appletvos11.4 | 9.4.1          |
@@ -135,19 +135,19 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | tvOS Simulator 11.4       | appletvsimulator11.4 | 9.4.1   |
 | tvOS Simulator 12.0       | appletvsimulator12.0 | 10.0    |
 | tvOS Simulator 12.1       | appletvsimulator12.1 | 10.1    |
-| tvOS Simulator 12.2       | appletvsimulator12.2 | 10.2(.1)|
+| tvOS Simulator 12.2       | appletvsimulator12.2 | 10.2, 10.2.1 |
 | tvOS Simulator 12.4       | appletvsimulator12.4 | 10.3    |
 | tvOS Simulator 13.0       | appletvsimulator13.0 | 11.0    |
 | watchOS 4.3               | watchos4.3 | 9.4.1         |
 | watchOS 5.0               | watchos5.0 | 10.0          |
 | watchOS 5.1               | watchos5.1 | 10.1          |
-| watchOS 5.2               | watchos5.2 | 10.2(.1)      |
+| watchOS 5.2               | watchos5.2 | 10.2, 10.2.1  |
 | watchOS 5.3               | watchos5.3 | 10.3          |
 | watchOS 6.0               | watchos6.0 | 11.0          |
 | watchOS Simulator 4.3     | watchsimulator4.3 | 9.4.1         |
 | watchOS Simulator 5.0     | watchsimulator5.0 | 10.0          |
 | watchOS Simulator 5.1     | watchsimulator5.1 | 10.1          |
-| watchOS Simulator 5.2     | watchsimulator5.2 | 10.2(.1)      |
+| watchOS Simulator 5.2     | watchsimulator5.2 | 10.2, 10.2.1  |
 | watchOS Simulator 5.3     | watchsimulator5.3 | 10.3          |
 | watchOS Simulator 6.0     | watchsimulator6.0 | 11.0          |
 | DriverKit 19.0            | driverkit.macosx19.0 | 11.0       |
