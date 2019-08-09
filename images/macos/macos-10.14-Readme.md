@@ -153,35 +153,33 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 
 #### Runtimes
 
-| OS      | Version | Xcode Version                   |
-|---------|---------|---------------------------------|
-| iOS 8.4 | 12H141  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 9.0 | 13A344  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 9.1 | 13B143  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 9.2 | 13C75   | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 9.3 | 13E233  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 10.0 | 14A345 | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 10.1 | 14B72  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 10.2 | 14C89  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 10.3 | 14E8301| 9.4.1, 10.0, 10.1, 10.2, 10.2.1 |
-| iOS 11.4 | 15F79  | 9.4.1           |
-| iOS 12.0 | 16A5288q | 10.0          |
-| iOS 12.1 | 16B91    | 10.1          |
-| iOS 12.2 | 16E226   | 10.2, 10.2.1  |
-| iOS 12.4 | 16G73    | 10.3          |
-| iOS 13.0 | 17A5534d | 11.0          |
-| tvOS 11.4 | 15L576  | 9.4.1         |
-| tvOS 12.0 | 16J5283n | 10.0         |
-| tvOS 12.1 | 16J602 | 10.1           |
-| tvOS 12.2 | 16L225 | 10.2, 10.2.1   |
-| tvOS 12.4 | 16M567 | 10.3           |
-| tvOS 13.0 | 17J5526d | 11.0         |
-| watchOS 4.3 | 15T212 | 9.4.1        |
-| watchOS 5.0 | 16R5283q | 10.0       |
-| watchOS 5.1 | 16R591 | 10.1         |
-| watchOS 5.2 | 16T224 | 10.2, 10.2.1 |
-| watchOS 5.3 | 16U567 | 10.3         |
-| watchOS 6.0 | 17R5532d | 11.0       |
+| OS      | Version | Xcode Version                   | Simulators |
+|---------|---------|---------------------------------|------------|
+| iOS 8.4 | 12H141  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 4s<br>iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPad 2<br>iPad Retina<br>iPad Air |
+| iOS 9.0 | 13A344  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 4s<br>iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPad 2<br>iPad Retina<br>iPad Air<br>iPad Air 2 |
+| iOS 9.1<br>iOS 9.2<br>iOS 9.3 | 13B143<br>13C75<br>13E233  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 4s<br>iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPad 2<br>iPad Retina<br>iPad Air<br>iPad Air 2<br>iPad Pro |
+| iOS 10.0 | 14A345 | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone SE<br>iPad Air<br>iPad Air 2<br>iPad Pro (9.7 inch)<br>iPad Pro (12.9 inch)
+ |
+| iOS 10.1<br>iOS 10.2  | 14B72<br>14C89  | 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPad Air<br>iPad Air 2<br>iPad Pro (9.7 inch)<br>iPad Pro (12.9 inch) |
+| iOS 10.3 | 14E8301| 9.4.1, 10.0, 10.1, 10.2, 10.2.1 | iPhone 5<br>iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPad Air<br>iPad Air 2<br>iPad Pro (9.7 inch)<br>iPad Pro (12.9 inch)<br>iPad (5th generation)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad Pro (10.5-inch) |
+| iOS 11.4 | 15F79  | 9.4.1           | iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPhone 8<br>iPhone 8 Plus<br>iPhone X<br>iPad Air<br>iPad Air 2<br>iPad (5th generation)<br>iPad Pro (9.7-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad Pro (10.5-inch) |
+| iOS 12.0 | 16A5288q | 10.0          | iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPhone 8<br>iPhone 8 Plus<br>iPhone X<br>iPhone XR<br>iPhone XS<br>iPhone XS Max<br>iPad Air<br>iPad Air 2<br>iPad (5th generation)<br>iPad Pro (9.7-inch)<br>iPad Pro (10.5-inch)<br>iPad Pro (11-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad (6th generation) |
+| iOS 12.1 | 16B91    | 10.1          | iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPhone 8<br>iPhone 8 Plus<br>iPhone X<br>iPhone X<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPad Air<br>iPad Air 2<br>iPad (5th generation)<br>iPad Pro (9.7-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad Pro (10.5-inch)<br>iPad (6th generation)<br>iPad Pro (11-inch)<br>iPad Pro (12.9-inch) (3rd generation) |
+| iOS 12.2 | 16E226   | 10.2, 10.2.1  | iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPhone 8<br>iPhone 8 Plus<br>iPhone X<br>iPhone X<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPad Air<br>iPad Air 2<br>iPad Air (3rd generation)<br>iPad mini 2<br>iPad mini 3<br>iPad mini 4<br>iPad mini (5th generation)<br>iPad (5th generation)<br>iPad Pro (9.7-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad Pro (10.5-inch)<br>iPad (6th generation)<br>iPad Pro (11-inch)<br>iPad Pro (12.9-inch) (3rd generation) |
+| iOS 12.4 | 16G73    | 10.3          | iPhone 5s<br>iPhone 6<br>iPhone 6 Plus<br>iPhone 6s<br>iPhone 6s Plus<br>iPhone 7<br>iPhone 7 Plus<br>iPhone SE<br>iPhone 8<br>iPhone 8 Plus<br>iPhone X<br>iPhone X<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPad Air<br>iPad Air 2<br>iPad Air (3rd generation)<br>iPad mini 2<br>iPad mini 3<br>iPad mini 4<br>iPad mini (5th generation)<br>iPad (5th generation)<br>iPad Pro (9.7-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd generation)<br>iPad Pro (10.5-inch)<br>iPad (6th generation)<br>iPad Pro (11-inch)<br>iPad Pro (12.9-inch) (3rd generation) |
+| iOS 13.0 | 17A5534d | 11.0          | iPhone 8<br>iPhone 8 Plus<br>iPhone Xs<br>iPhone Xs Max<br>iPhone XR<br>iPad Pro (9.7-inch)<br>iPad Pro<br>iPad Pro (12.9-inch) (3rd<br>iPad Air (3rd generation) |
+| tvOS 11.4 | 15L576  | 9.4.1         | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| tvOS 12.0 | 16J5283n | 10.0         | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| tvOS 12.1 | 16J602 | 10.1           | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| tvOS 12.2 | 16L225 | 10.2, 10.2.1   | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| tvOS 12.4 | 16M567 | 10.3           | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| tvOS 13.0 | 17J5526d | 11.0         | Apple TV<br>Apple TV 4K<br>Apple TV 4K (at 1080p) |
+| watchOS 4.3 | 15T212 | 9.4.1        | Apple Watch 38mm<br>Apple Watch 42mm<br>Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm |
+| watchOS 5.0 | 16R5283q | 10.0       | Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm<br>Apple Watch Series 4 40mm<br>Apple Watch Series 4 44mm |
+| watchOS 5.1 | 16R591 | 10.1         | Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm<br>Apple Watch Series 4 40mm<br>Apple Watch Series 4 44mm |
+| watchOS 5.2 | 16T224 | 10.2, 10.2.1 | Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm<br>Apple Watch Series 4 40mm<br>Apple Watch Series 4 44mm |
+| watchOS 5.3 | 16U567 | 10.3         | Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm<br>Apple Watch Series 4 40mm<br>Apple Watch Series 4 44mm |
+| watchOS 6.0 | 17R5532d | 11.0       | Apple Watch Series 2 38mm<br>Apple Watch Series 2 42mm<br>Apple Watch Series 3 38mm<br>Apple Watch Series 3 42mm<br>Apple Watch Series 4 40mm<br>Apple Watch Series 4 44mm |
 
 #### Devices
 
@@ -191,249 +189,6 @@ Image contains only default simulators for each Xcode version. To install a spec
 xcversion simulators --install='iOS 8.4'
 ```
 **!** - The installation of some simulators may cause compatibility issues.
-
-#### iOS 8.4 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 4s
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPad 2
-- iPad Retina
-- iPad Air
-
-#### iOS 9.0 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 4s
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPad 2
-- iPad Retina
-- iPad Air
-- iPad Air 2
-
-#### iOS 9.1, 9.2, 9.3 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 4s
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPad 2
-- iPad Retina
-- iPad Air
-- iPad Air 2
-- iPad Pro
-
-#### iOS 10.0 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone SE
-- iPad Air
-- iPad Air 2
-- iPad Pro (9.7 inch)
-- iPad Pro (12.9 inch)
-
-#### iOS 10.1, 10.2 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPad Air
-- iPad Air 2
-- iPad Pro (9.7 inch)
-- iPad Pro (12.9 inch)
-
-#### iOS 10.3 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
-
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPad Air
-- iPad Air 2
-- iPad Pro (9.7 inch)
-- iPad Pro (12.9 inch)
-- iPad (5th generation)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (10.5-inch)
-
-#### iOS 11.4 [available for Xcode 9.4.1]
-
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPhone 8
-- iPhone 8 Plus
-- iPhone X
-- iPad Air
-- iPad Air 2
-- iPad (5th generation)
-- iPad Pro (9.7-inch)
-- iPad Pro (12.9-inch)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (10.5-inch)
-
-#### iOS 12.0 [available for Xcode 10.0]
-
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPhone 8
-- iPhone 8 Plus
-- iPhone X
-- iPhone XR
-- iPhone XS
-- iPhone XS Max
-- iPad Air
-- iPad Air 2
-- iPad (5th generation)
-- iPad Pro (9.7-inch)
-- iPad Pro (10.5-inch)
-- iPad Pro (11-inch)
-- iPad Pro (12.9-inch)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad (6th generation)
-
-#### iOS 12.1 [available for Xcode 10.1]
-
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPhone 8
-- iPhone 8 Plus
-- iPhone X
-- iPhone X
-- iPhone XS
-- iPhone XS Max
-- iPhone XR
-- iPad Air
-- iPad Air 2
-- iPad (5th generation)
-- iPad Pro (9.7-inch)
-- iPad Pro (12.9-inch)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (10.5-inch)
-- iPad (6th generation)
-- iPad Pro (11-inch)
-- iPad Pro (12.9-inch) (3rd generation)
-
-**iOS 12.2 [available for Xcode 10.2, 10.2.1]**  
-&nbsp;   &nbsp;   &nbsp;&nbsp;&nbsp;**12.4 [available for Xcode 10.3]**
-
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone SE
-- iPhone 8
-- iPhone 8 Plus
-- iPhone X
-- iPhone X
-- iPhone XS
-- iPhone XS Max
-- iPhone XR
-- iPad Air
-- iPad Air 2
-- iPad Air (3rd generation)
-- iPad mini 2
-- iPad mini 3
-- iPad mini 4
-- iPad mini (5th generation)
-- iPad (5th generation)
-- iPad Pro (9.7-inch)
-- iPad Pro (12.9-inch)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (10.5-inch)
-- iPad (6th generation)
-- iPad Pro (11-inch)
-- iPad Pro (12.9-inch) (3rd generation)
-
-#### iOS 13.0 [available for Xcode 11.0]
-
-- iPhone 8
-- iPhone 8 Plus
-- iPhone Xs
-- iPhone Xs Max
-- iPhone XR
-- iPad Pro (9.7-inch)
-- iPad Pro
-- iPad Pro (12.9-inch) (3rd
-- iPad Air (3rd generation)
-
-**tvOS 11.4 [available for Xcode 9.4.1]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;**12.0 [available for Xcode 10.0]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;**12.1 [available for Xcode 10.1]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;**12.2 [available for Xcode 10.2, 10.2.1]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;**12.4 [available for Xcode 10.3]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;**13.0 [available for Xcode 11.0]**  
-
-- Apple TV
-- Apple TV 4K
-- Apple TV 4K (at 1080p)
-
-#### watchOS 4.3 [available for Xcode 9.4.1]
-
-- Apple Watch - 38mm
-- Apple Watch - 42mm
-- Apple Watch Series 2 - 38mm
-- Apple Watch Series 2 - 42mm
-- Apple Watch Series 3 - 38mm
-- Apple Watch Series 3 - 42mm
-
-**watchOS 5.0 [available for Xcode 10.0]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;&nbsp;   &nbsp;**5.1 [available for Xcode 10.1]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;&nbsp;   &nbsp;**5.2 [available for Xcode 10.2, 10.2.1]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;&nbsp;   &nbsp;**5.3 [available for Xcode 10.3]**  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;&nbsp;   &nbsp;**6.0 [available for Xcode 11.0]**
-
-- Apple Watch Series 2 - 38mm
-- Apple Watch Series 2 - 42mm
-- Apple Watch Series 3 - 38mm
-- Apple Watch Series 3 - 42mm
-- Apple Watch Series 4 - 40mm
-- Apple Watch Series 4 - 44mm
 
 ### Device Pairs
 
