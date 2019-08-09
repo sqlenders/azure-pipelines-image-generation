@@ -400,7 +400,7 @@ xcversion simulators --install='iOS 8.4'
 - iPad Pro (12.9-inch) (3rd
 - iPad Air (3rd generation)
 
-#### tvOS 11.4, 12.0, 12.1, 12.2, 12.4, 13.0 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1, 11.0]
+#### tvOS 11.4 [available for Xcode 9.4.1], 12.0 [available for Xcode 10.0], 12.1 [available for Xcode 10.1], 12.2 [available for Xcode 10.2, 10.2.1], 12.4 [available for Xcode 10.3], 13.0 [available for Xcode 11.0]
 
 - Apple TV
 - Apple TV 4K
@@ -415,7 +415,7 @@ xcversion simulators --install='iOS 8.4'
 - Apple Watch Series 3 - 38mm
 - Apple Watch Series 3 - 42mm
 
- #### watchOS 5.0, 5.1, 5.2, 5.3. 6.0 [available for Xcode 10.0, 10.1, 10.2, 10.2.1, 11.0]
+ #### watchOS 5.0 [available for Xcode 10.0], 5.1 [available for Xcode 10.1], 5.2 [available for Xcode 10.2, 10.2.1], 5.3 [available for Xcode 10.3], 6.0 [available for Xcode 11.0]
 
 - Apple Watch Series 2 - 38mm
 - Apple Watch Series 2 - 42mm
