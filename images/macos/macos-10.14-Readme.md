@@ -151,49 +151,6 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 
 ### Installed Simulators
 
-#### Device Types
-
-- iPhone 4s
-- iPhone 5
-- iPhone 5s
-- iPhone 6
-- iPhone 6 Plus
-- iPhone 6s
-- iPhone 6s Plus
-- iPhone 7
-- iPhone 7 Plus
-- iPhone 8
-- iPhone 8 Plus
-- iPhone SE
-- iPhone X
-- iPhone XR **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- iPhone XS **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- iPhone XS Max **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- iPad 2
-- iPad Retina
-- iPad Air
-- iPad Air 2
-- iPad Air (3rd generation) **[Xcode: 10.2, 10.2.1, 10.3, 11.0]**
-- iPad (5th generation)
-- iPad Pro (9.7-inch)
-- iPad Pro (10.5-inch)
-- iPad Pro (11-inch) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- iPad Pro (12.9-inch)
-- iPad Pro (12.9-inch) (2nd generation)
-- iPad Pro (12.9-inch) (3rd generation) **[Xcode: 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- iPad (6th generation)
-- Apple TV 1080p
-- Apple TV 4K
-- Apple TV 4K (at 1080p)
-- Apple Watch - 38mm
-- Apple Watch - 42mm
-- Apple Watch Series 2 - 38mm
-- Apple Watch Series 2 - 42mm
-- Apple Watch Series 3 - 38mm
-- Apple Watch Series 3 - 42mm
-- Apple Watch Series 4 - 40mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-- Apple Watch Series 4 - 44mm **[Xcode: 10, 10.1, 10.2, 10.2.1, 10.3, 11.0]**
-
 #### Runtimes
 
 | OS      | Version | Xcode Version                   |
