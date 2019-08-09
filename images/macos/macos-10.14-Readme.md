@@ -186,7 +186,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 #### Devices
 
 #### How to install additional simulators?
-!!! - By default, we do not install all simulators for all Xcode versions due to compatibility issues that we have seen. To install a specific simulator for all Xcode versions, use `xcversion` tool:
+Image contains only default simulators for each Xcode version. To install a specific simulator for all Xcode version, use xcversion tool:
 ```
 xcversion simulators --install='iOS 8.4'
 ```
