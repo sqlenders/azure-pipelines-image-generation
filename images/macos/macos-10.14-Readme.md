@@ -190,6 +190,7 @@ Image contains only default simulators for each Xcode version. To install a spec
 ```
 xcversion simulators --install='iOS 8.4'
 ```
+**!** - The installation of some simulators may cause compatibility issues.
 
 #### iOS 8.4 [available for Xcode 9.4.1, 10.0, 10.1, 10.2, 10.2.1]
 
