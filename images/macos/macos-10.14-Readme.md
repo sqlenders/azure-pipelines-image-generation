@@ -89,7 +89,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 
 | Version                | Build   | Path                            |
 |------------------------|---------|---------------------------------|
-| 11.0                   | 11M374r | /Applications/Xcode_11.app      |
+| 11_beta 4              | 11M374r | /Applications/Xcode_11.app      |
 | 10.3                   | 10G8    | /Applications/Xcode_10.3.app    |
 | 10.2.1                 | 10E1001 | /Applications/Xcode_10.2.1.app  |
 | 10.2                   | 10E125  | /Applications/Xcode_10.2.app    |
@@ -109,15 +109,12 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | SDK                       | SDK name    |Xcode Version |
 |---------------------------|-------------|--------------|
 | macOS 10.13               | macosx10.13 | 9.4.1        |
-| macOS 10.14               | macosx10.14 | 10.0         |
-| macOS 10.14               | macosx10.14 | 10.1         |
-| macOS 10.14               | macosx10.14 | 10.2, 10.2.1 |
-| macOS 10.14               | macosx10.14 | 10.3         |
+| macOS 10.14               | macosx10.14 | 10.0, 10.1, 10.2, 10.2.1, 10.3 |
 | macOS 10.15               | macosx10.15 | 11.0         |
 | iOS 11.4                  | iphoneos11.4 | 9.4.1       |
 | iOS 12.0                  | iphoneos12.0 | 10.0        |
 | iOS 12.1                  | iphoneos12.1 | 10.1        |
-| iOS 12.2                  | iphoneos12.2 | 10.2(.1)    |
+| iOS 12.2                  | iphoneos12.2 | 10.2, 10.2.1|
 | iOS 12.4                  | iphoneos12.4 | 10.3        |
 | iOS 13.0                  | iphoneos13.0 | 11.0        |
 | iOS Simulator 11.4        | iphonesimulator11.4 | 9.4.1    |
@@ -129,7 +126,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 | tvOS 11.4                 | appletvos11.4 | 9.4.1          |
 | tvOS 12.0                 | appletvos12.0 | 10.0           |
 | tvOS 12.1                 | appletvos12.1 | 10.1           |
-| tvOS 12.2                 | appletvos12.2 | 10.2(.1)       |
+| tvOS 12.2                 | appletvos12.2 | 10.2, 10.2.1   |
 | tvOS 12.4                 | appletvos12.4 | 10.3           |
 | tvOS 13.0                 | appletvos13.0 | 11.0           |
 | tvOS Simulator 11.4       | appletvsimulator11.4 | 9.4.1   |
