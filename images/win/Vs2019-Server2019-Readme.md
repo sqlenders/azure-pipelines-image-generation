@@ -111,6 +111,10 @@ The following workloads and components are installed with Visual Studio 2019:
 * Microsoft.VisualStudio.Workload.Universal
 * Microsoft.VisualStudio.Workload.VisualStudioExtension
 
+The following extensions are installed in Visual Studio 2019:
+* Microsoft Analysis Services Projects - version 2.8.17
+* Microsoft Reporting Services Projects - version 2.5.9
+
 ## WIX Tools
 
 _Toolset Version:_ 3.11.2318<br/>
