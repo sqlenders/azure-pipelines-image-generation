@@ -14,6 +14,7 @@ Export-ModuleMember -Function @(
     'Set-SystemVariable'
     'Install-MSI'
     'Install-EXE'
+    'Install-VSIX'    
     'Add-ContentToMarkdown'
     'Add-SoftwareDetailsToMarkdown'
 )
