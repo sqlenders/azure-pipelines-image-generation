@@ -482,6 +482,18 @@
                 "{{ template_dir }}/scripts/Installers/Install-Vcpkg.ps1"
             ]
         },
+		{
+            "type": "powershell",
+            "scripts":[
+                "{{ template_dir }}/scripts/Installers/Vs2019/Extensions/Install-VSIX-AnalysisService.ps1"
+            ]
+        },
+		{
+            "type": "powershell",
+            "scripts":[
+                "{{ template_dir }}/scripts/Installers/Vs2019/Extensions/Install-VSIX-ReportingServices.ps1"
+            ]
+        },
         {
             "type": "windows-restart",
             "restart_timeout": "10m"
