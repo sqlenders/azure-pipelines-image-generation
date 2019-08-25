@@ -722,6 +722,18 @@
                 "{{ template_dir }}/scripts/Installers/Validate-Vcpkg.ps1"
             ]
         },
+		{
+            "type": "powershell",
+            "scripts":[
+                "{{ template_dir }}/scripts/Installers/Vs2019/Extensions/Validate-VSIX-AnalysisService.ps1"
+            ]
+        },
+		{
+            "type": "powershell",
+            "scripts":[
+                "{{ template_dir }}/scripts/Installers/Vs2019/Extensions/Validate-VSIX-ReportingServices.ps1"
+            ]
+        },
         {
             "type": "file",
             "source": "C:\\InstalledSoftware.md",
